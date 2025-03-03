@@ -20,7 +20,7 @@ body {
     padding: 24px;
     background-color: #f0E8C2;
     border-radius: 24px; /* arredondamento de borda*/
-    margin: 48px auto;
+    margin: 48px auto 28px;
 }
 
 img {
@@ -57,4 +57,10 @@ h1, h2 {
 
 ul {
     padding-left: 24px;
+}
+
+footer {
+    color: #F0EBC2;
+    text-align: center;
+    padding-bottom: 48px;
 }
